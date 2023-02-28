@@ -1,0 +1,45 @@
+.navbar {
+  padding: 10px;
+}
+
+.form {
+  width: 550px;
+  margin: 100px auto;
+  padding: 20px;
+
+}
+
+.form-body {
+  text-align: center;
+  padding: 15px 10px;
+}
+
+.form-body > * {
+  padding: 6px;
+}
+
+.form__label {
+  width: 50%;
+}
+
+.form_input {
+  width: 70%;
+}
+.btn-register {
+  padding: 10px;
+  font-size: 18px;
+  border-radius: 10px;
+  border: none;
+  border-radius: 10px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin: auto;
+  color: white;
+  background-color: black;
+}
+
+.footer {
+  text-align: center;
+  margin: 20px;
+}
