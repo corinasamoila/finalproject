@@ -1,0 +1,375 @@
+[
+  {
+    "name": "AISTEDA",
+    "lat": 46.0692749,
+    "lng": 23.563514,
+    "category": "general"
+  },
+  {
+    "name": "Academy of Music 'Georghe Dima' Cluj-Napoca",
+    "lat": 44.43972102411692,
+    "lng": 26.069670382779478,
+    "category": "art"
+
+  },
+  {
+    "name": "National Academy for Physical Education and Sports Bucharest",
+    "lat": 46.7687336,
+    "lng": 23.5930445,
+    "category": "sport"
+  },
+  {
+    "name": "Academy of Arts 'George Enescu' Iasi",
+    "lat": 47.16502699307543,
+    "lng": 27.585146145680113,
+    "category": "art"
+  },
+  {
+    "name": "Academia de Studii Economice din Bucuresti",
+    "lat": 44.44769009659577,
+    "lng": 26.09781422528915,
+    "category": "economy"
+  },
+  {
+    "name": "University of Craiova",
+    "lat": 44.31929870821247,
+    "lng": 23.800846713639594,
+    "category": "general"
+  },
+  {
+    "name": "Emanuel University",
+    "lat": 47.02623191584513,
+    "lng": 21.955787142548825,
+    "category": "general"
+  },
+  {
+    "name": "Institute of Architecture 'Ion Mincu' Bucharest",
+    "lat": 44.43610645461407,
+    "lng": 26.099738798301246,
+    "category": "architecture"
+  },
+  {
+    "name": "Academy of Music 'Georghe Dima' Cluj-Napoca",
+    "lat": 46.7687336,
+    "lng": 23.5930445,
+    "category": "art"
+  },
+  {
+    "name": "Academia Tehnica Militara",
+    "lat": 47.04481398660338,
+    "lng": 21.920091369537126,
+    "category": "military"
+  },
+  {
+    "name": "University of Medicine and Pharmacology of Oradea",
+    "lat": 47.05447067106166,
+    "lng": 21.93537524070201,
+    "category": "medicine"
+  },
+  {
+    "name": "Oradea University",
+    "lat": 47.044835919325905,
+    "lng": 21.92013428487865,
+    "category": "general"
+  },
+  {
+    "name": "University of Constanta Medical School",
+    "lat": 44.215992428071395,
+    "lng": 28.62300032713087,
+    "category": "medicine"
+  },
+  {
+    "name": "Romanian-American University",
+    "lat": 44.47353573985446,
+    "lng": 26.06550142713758,
+    "category": "general"
+  },
+  {
+    "name": "University of Sibiu",
+    "lat": 45.783278196706,
+    "lng": 24.149202247074683,
+    "category": "general"
+  },
+  {
+    "name": "National School of Political and Administrative Studies Bucharest",
+    "lat": 44.47456919298182,
+    "lng": 26.059000381113037,
+    "category": "law"
+  },
+  {
+    "name": "Spiru Haret University",
+    "lat": 44.43347712713397,
+    "lng": 26.101007457670764,
+    "category": "general"
+  },
+  {
+    "name": "Technical University of Iasi",
+    "lat": 47.15475089178465,
+    "lng": 27.599471100223194,
+    "category": "engineering"
+  },
+  {
+    "name": "1 December University of Alba Iulia",
+    "lat": 46.06944228025449,
+    "lng": 23.57243002533316,
+    "category": "general"
+  },
+  {
+    "name": "University of Iasi",
+    "lat": 47.16035949530232,
+    "lng": 27.603153540705048,
+    "category": "general"
+  },
+  {
+    "name": "University of Art and Design Cluj-Napoca",
+    "lat": 46.76992944040437,
+    "lng": 23.590861383023327,
+    "category": "art"
+  },
+  {
+    "name": "Targu-Mures University of Theatre",
+    "lat": 46.543409005149215,
+    "lng": 24.563263422098185,
+    "category": "art"
+  },
+  {
+    "name": "University 'Aurel Vlaicu' Arad",
+    "lat": 46.17503811818043,
+    "lng": 21.318911025336103,
+    "category": "general"
+  },
+  {
+    "name": "Babes-Bolyai University of Cluj-Napoca",
+    "lat": 46.767317251913006,
+    "lng": 23.59213949836472,
+    "category": "general"
+  },
+  {
+    "name": "North University of Baia Mare",
+    "lat": 47.66075510416983,
+    "lng": 23.544783434251457,
+    "category": "general"
+  },
+  {
+    "name": "University of Bacau",
+    "lat": 46.555114589952765,
+    "lng": 26.91380337137129,
+    "category": "general"
+  },
+  {
+    "name": "University of Resita",
+    "lat": 45.29283727764947,
+    "lng": 21.884778561537992,
+    "category": "general"
+  },
+  {
+    "name": "University of Galatzi",
+    "lat": 45.440417612455086,
+    "lng": 28.05682185878591,
+    "category": "general"
+  },
+  {
+    "name": "University Lucian Blaga of Sibiu",
+    "lat": 45.79137869326548,
+    "lng": 24.146186408444617,
+    "category": "general"
+  },
+  {
+    "name": "University of Medicine and Pharmacy of Cluj-Napoca",
+    "lat": 46.761838069104634,
+    "lng": 23.58284388487079,
+    "category": "medicine"
+  },
+  {
+    "name": "University of Medicine and Pharmacy of Iasi",
+    "lat": 47.16839763436826,
+    "lng": 27.58446112536374,
+    "category": "medicine"
+  },
+  {
+    "name": "University of Medicine and Pharmacy of Targu Mures",
+    "lat": 46.55542294829713,
+    "lng": 24.581931485425255,
+    "category": "medicine"
+  },
+  {
+    "name": "University of Medicine and Pharmacy of Timisoara",
+    "lat": 45.756825019416745,
+    "lng": 21.236710398336896,
+    "category": "medicine"
+  },
+  {
+    "name": "National University of Arts",
+    "lat": 44.44295856503613,
+    "lng": 26.0912505212008,
+    "category": "art"
+  },
+  {
+    "name": "National University of Theater and Film Arts",
+    "lat": 44.43782261041399,
+    "lng": 26.12999959830128,
+    "category": "art"
+  },
+  {
+    "name": "University of Bucharest",
+    "lat": 44.435695538159024,
+    "lng": 26.101784613642728,
+    "category": "general"
+  },
+  {
+    "name": "University 'Transilvany' of Brasov",
+    "lat": 45.660655309264264,
+    "lng": 25.600241603200047,
+    "category": "general"
+  },
+  {
+    "name": "Constantin Brancoveanu University Pitesti",
+    "lat": 44.870106362441504,
+    "lng": 24.859979311806743,
+    "category": "general"
+  },
+  {
+    "name": "University of Medicine and Pharmacy of Bucharest",
+    "lat": 44.43510259211095,
+    "lng": 26.06963616761816,
+    "category": "medicine"
+  },
+  {
+    "name": "Maritime University Constanta",
+    "lat": 44.18409927687291,
+    "lng": 28.650630925047526,
+    "category": "general"
+  },
+  {
+    "name": "University of Constanta",
+    "lat": 44.19563683975251,
+    "lng": 28.650384977333065,
+    "category": "general"
+  },
+  {
+    "name": "National University of Music",
+    "lat": 44.43969222558363,
+    "lng": 26.09053934247824,
+    "category": "art"
+  },
+  {
+    "name": "University of Oradea",
+    "lat": 47.044821297511916,
+    "lng": 21.920069911866367,
+    "category": "general"
+  },
+  {
+    "name": "University 'Petre Andrei' Iasi",
+    "lat": 47.160366790360655,
+    "lng": 27.60317499837581,
+    "category": "general"
+  },
+  {
+    "name": "University of Petrosani",
+    "lat": 45.420062205923294,
+    "lng": 23.376425854150828,
+    "category": "general"
+  },
+  {
+    "name": "University Oil- Gas Ploiesti",
+    "lat": 44.91439802337516,
+    "lng": 26.03646729646652,
+    "category": "engineering"
+  },
+  {
+    "name": "University of Pitesti",
+    "lat": 44.85476850903906,
+    "lng": 24.882019973172362,
+    "category": "general"
+  },
+  {
+    "name": "Petru Maior University of Targu Mures",
+    "lat": 46.54742897058149,
+    "lng": 24.568444800206404,
+    "category": "general"
+  },
+  {
+    "name": "University of Agriculture and Veterinary Medicine Bucharest",
+    "lat": 44.471149921202624,
+    "lng": 26.065573096454465,
+    "category": "agronomy"
+  },
+  {
+    "name": "Banat's University of Agricultural Sciences",
+    "lat": 45.7847255788703,
+    "lng": 21.21552173446522,
+    "category": "agronomy"
+  },
+  {
+    "name": "University of Agriculture and Veterinary Medicine Timisoara",
+    "lat": 45.78299723072339,
+    "lng": 21.215639754160748,
+    "category": "agronomy"
+  },
+  {
+    "name": "University of Agriculture and Veterinary Medicine Cluj-Napoca",
+    "lat": 46.76117497202339,
+    "lng": 23.57079096952924,
+    "category": "agronomy"
+  },
+  {
+    "name": "University of Suceava",
+    "lat": 47.64128263998363,
+    "lng": 26.24386279838941,
+    "category": "general"
+  },
+  {
+    "name": "Technical University of Civil Engineering Bucharest",
+    "lat": 44.46337726539528,
+    "lng": 26.12483651364339,
+    "category": "engineering"
+  },
+  {
+    "name": "Technical University of Cluj-Napoca",
+    "lat": 46.7693859021749,
+    "lng": 23.585697069529424,
+    "category": "engineering"
+  },
+  {
+    "name": "University of Targu Jiu",
+    "lat": 45.05325706011587,
+    "lng": 23.27325432184595,
+    "category": "general"
+  },
+  {
+    "name": "University 'Titu Maiorescu'",
+    "lat": 44.59437693161031,
+    "lng": 26.115294757356498,
+    "category": "law"
+  },
+  {
+    "name": "Technical University of Timisoara",
+    "lat": 45.75376654080985,
+    "lng": 21.225140040666066,
+    "category": "engineering"
+  },
+  {
+    "name": "West University of Timisoara",
+    "lat": 45.7472916767498,
+    "lng": 21.231529367653536,
+    "category": "general"
+  },
+  {
+    "name": "Universitatea de Vest 'Vasile Goldiş'",
+    "lat": 46.1813690327682,
+    "lng": 21.296321798348536,
+    "category": "general"
+  },
+  {
+    "name": "Valahia University of Targoviste",
+    "lat": 44.911887163854324,
+    "lng": 25.4496916578324,
+    "category": "general"
+  },
+  {
+    "name": "University of Agriculture and Veterinary Medicine Iasi",
+    "lat": 47.19184115709079,
+    "lng": 27.55736018673061,
+    "category": "agronomy"
+  }
+]
