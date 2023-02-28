@@ -1,0 +1,41 @@
+body {
+  background-image: url("data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAkGBw8NDQ0NDQ0NDQ8ODw0NDQ0NDQ8NDQ0NFREWFhURExMYHSggGBolGxUVITEhJSkrLi4uFx8zODMsNygtLisBCgoKDQ0ODw8PFSsZFRkrKysrKysrKy0tKzctKystLSsrNysrNzcrKysrKystKys3LTcrNysrKysrKysrKysrK//AABEIALcBEwMBIgACEQEDEQH/xAAZAAEBAQEBAQAAAAAAAAAAAAAAAQIDBwT/xAAmEAEBAAIBAwMEAwEAAAAAAAAAAQIRMQMhQRJRYRMycYGRsfBC/8QAFgEBAQEAAAAAAAAAAAAAAAAAAAEC/8QAFxEBAQEBAAAAAAAAAAAAAAAAAAERQf/aAAwDAQACEQMRAD8A9qRUVAolUoAAi1KCFTLLU3WN5XjsqOiM6yXd8xBVjKggvKNQChQAFEawrGVbxiVG5VZlalZaa2rO12g1FZUGmOo0nU4FchNm1RVrJaCiII6I5WEys+fyYrqlTHLa0AABNKlBzzx3lJ7OsmnPH7v4dipEARWLh7M/l1SwHNdlx1wm/wBNRF0WIVQ0XtyzllI57uSprePfv/be2cWkqxZWmFlQbWMyrEVuVWGkGomfFNl4oOIG1FRARUEBqo1WaCN45bYJVHQBFEqpQYn3fqOrlPu/UdSpABFAAEuO1Ac70mfpfLsGmOU6MYs0+hjPHayljk1KyNstiSrEVY1IxtZUG1Z2qK0rMaiDjl2qOmePlzaiAC4AAN1GqjKs1GkEax4VnFoCptXLq5f8znz8AvSm7bHVnp46je0qxANgAAAAAIoioCXGVn6c+WxdRn0T5X0xSmmM3Fl0TKLpib7LKz4FRtWZVQaTLDYorn9NqdL3bU0wmE9oNIg5o1YijKNIIzC3L2itwHG+q/H4a6fT06hpglVKigAAAAAACKIqAAKgqCKBs2DOcZbynZzbjNalalYWA2rEaiK01GV2g0iKDIqAiVRRkxAGwEBKqUAAAAAAABFEVAAFQARQABzva6dGc8drKlYVJRtGpWsWGp5Qa2rDUqK1sQQaE2bASAolRQFipCZIKlXZaCAAAAAAAIoioAAqACKAAAAxliy6pY1KmObWNPSeldiCypUlQdBz9QuDqgIoFqbBTaII1aytQVZl4ac61hltBoAAAAAABFEVAAFQARQAAABFQAGc6CZ5d9ITm35G5GQBpHSobRhpqpsyQFQQRdrr5ZXShowve+yzH/bbmOkDYCKAAAAAIoioAAqACKAoIKgCKgDjld10zrGE8rIlavKKjcQAVGqgM4q3wi1DAXQlqi7WRl0xiUWRQRRAARUEigIoAiiKAgFVC1Jds4zfPDZgGQVRE2tQF2m0qGGpZtSDURIqAGlQVFWJo2imxFgFQFRceXaOfTjqxViUKIqUKKCKCJFTsbFUNjKiKm1CufN0udOnlIuMukKkylUVASgiKghUWoBAg1BAAAFQAAFAQAHXCNgxWkAQSgKCAJEAFQAEKgIJpRRmxrDLxQVOulSgy0iAIVAAgDUEFAQBUf/Z");
+}
+
+.career {
+  width: 100%;
+}
+
+.career-quiz {
+  margin: 30px;
+  height: 300px;
+  align-items: center;
+  display: flex;
+  justify-content: center;
+  background-size: contain;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSmYHDfkaXMBphPivGE5WlWlH0MNb0AmfgCyQ&usqp=CAU");
+}
+
+.quiz-link {
+  color: white;
+  text-decoration: none;
+  text-shadow: 1px 1px 2px rgb(239, 196, 196), 0 0 1em rgb(207, 51, 124),
+    0 0 0.2em rgb(220, 115, 204);
+  margin-bottom: 150px;
+}
+
+.p-how-to-choose {
+  margin: 50px;
+  font-size: large;
+  font-weight: 500;
+}
+
+.box-style {
+  margin: auto;
+}
+
+.step-text {
+  text-align: center;
+}
